@@ -90,4 +90,35 @@ I’m actively working on:
 
 ---
 
-## 📁 GitHub Structure
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=kr88qtr&show_icons=true&locale=en" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kr88qtr&layout=compact&langs_count=8" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kr88qtr" />
+</p>
+
+---
+
+## 🌐 Contact / Follow Me
+
+- 📸 Instagram: [@userr72829382](https://instagram.com/userr72829382)  
+- 💬 Discord: `Mekdessexcall` — [Join Server](https://discord.gg/Mekdessexcall)  
+- 🌐 LinkedIn / personal website: coming soon
+
+---
+
+## 🤝 I’m open to…
+
+- 🎓 Mentorship in **offensive cybersecurity**  
+- 💼 Internships or **practical projects** (Switzerland or remote)  
+- 🧠 Collaboration on **Python / Linux tools**  
+- 🗾 **Advice from professionals** about working in Japan
+
+---
+
+> 🧠 *“I build in silence. My GitHub will speak for me.”*
